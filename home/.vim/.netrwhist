@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/data1/users/dan/minimi-fallback/src/modules/utils'
+let g:netrw_dirhist_2='/data1/users/dan/minimi-fallback/.venv/lib/python3.6/site-packages/dac'
+let g:netrw_dirhist_3='/data1/users/dan/minimi-fallback/res/NLG/voice'
+let g:netrw_dirhist_4='/data1/users/dan/minimi-fallback'
+let g:netrw_dirhist_5='/data1/users/dan/josaman/scripts'
+let g:netrw_dirhist_6='/data1/users/dan/minimi-py3'
+let g:netrw_dirhist_7='/data1/users/dan/stream_speechact'
+let g:netrw_dirhist_8='/data1/users/dan/shotgun'
